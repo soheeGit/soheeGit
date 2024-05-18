@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">📫 contact 📫</h3>
+<div align="center">
+  <a href="https://63wlsthgml.tistory.com">
+    <img src="http://img.shields.io/badge/tistory-1EBC8F"/>&nbsp
+  </a>
+  <a href="mailto:63wlsthgml@gmail.com">
+    <img src="http://img.shields.io/badge/63wlsthgml@gmail.com-D14836"/>&nbsp
+  </a>
+</div>
