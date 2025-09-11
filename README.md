@@ -1,6 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Sohee Jin
+<div align="center">
+  <h1>👋 Hi, I'm Sohee Jin</h1>
+</div>
 
 🌱 백엔드 개발자로 성장 중인 **진소희**입니다.  
 Java와 Spring 기반의 기술을 중심으로,  
@@ -9,22 +11,20 @@ Java와 Spring 기반의 기술을 중심으로,
 
 </div>
 
----
-
-## 📫 Contact
-
 <div align="center">
+  <!-- Tistory -->
   <a href="https://63wlsthgml.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-1EBC8F?style=for-the-badge&logo=blogger&logoColor=white" alt="Tistory" />
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
   </a>
+  
+  <!-- Gmail -->
   <a href="mailto:63wlsthgml@gmail.com">
-    <img src="https://img.shields.io/badge/63wlsthgml@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
----
 
-## 🛠 Tech Stack
+---
 
 ### 💻 Languages
 <div align="center">
@@ -35,7 +35,7 @@ Java와 Spring 기반의 기술을 중심으로,
 ### 🌐 Backend
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
@@ -58,10 +58,16 @@ Java와 Spring 기반의 기술을 중심으로,
 
 ---
 
-## 🐾 GitAnimals
+<div align="center">
+  <a href="https://solved.ac/63wlsthgml">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=63wlsthgml" alt="Baekjoon Tier"/>
+  </a>
+</div>
+
+---
 
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soheeGit&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/soheeGit" width="600" height="300" />
+    <img src="https://render.gitanimals.org/farms/soheeGit" width="600" />
   </a>
 </div>
