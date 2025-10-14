@@ -23,7 +23,6 @@ Java와 Spring 기반의 기술을 중심으로,
   </a>
 </div>
 
-
 ---
 
 ### 💻 Languages
@@ -54,6 +53,13 @@ Java와 Spring 기반의 기술을 중심으로,
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soheeGit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheeGit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" alt="Top Languages" height="180"/>
 </div>
 
 ---
