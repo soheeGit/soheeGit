@@ -1,79 +1,71 @@
-<div align="center">
+<!-- Animated Title -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=32&pause=1000&color=58A6FF&center=false&vCenter=true&width=435&lines=Just+keep+swimming." alt="Typing SVG" />
+</a>
 
-<div align="center">
-  <h1>👋 Hi, I'm Sohee Jin</h1>
-</div>
+<br/>
 
-🌱 백엔드 개발자로 성장 중인 **진소희**입니다.  
-Java와 Spring 기반의 기술을 중심으로,  
-더 나은 사용자 경험을 고민하며 서비스를 만들어가고 있어요.  
-협업을 즐기고, 새로운 기술을 배우는 걸 좋아합니다. 😊
+### 🥔 Who am I
 
-</div>
+**백엔드 개발자를 꿈꾸는 진소희입니다.**
 
-<div align="center">
-  <!-- Tistory -->
-  <a href="https://63wlsthgml.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory" />
-  </a>
-  
-  <!-- Gmail -->
-  <a href="mailto:63wlsthgml@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+> Education
+- **한국공학대학교(Tech University of Korea)** - IT경영학과 / 컴퓨터공학과
+
+> Activities
+- **2025 Seeds**
+- **프로그래머스 생성형 AI 활용 백엔드 데브코스 1기**
+- **우아한테크코스(Woowa Tech Course) 프리코스 8기**
+
+> Certification
+- **정보처리기사 필기**
+- **SQL 개발자(SQLD)**
 
 ---
 
-### 💻 Languages
-<div align="center">
+### 💻 Tech Stack
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div>
-
-### 🌐 Backend
-<div align="center">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</div>
-
-### 🛢 Database
-<div align="center">
+</p>
+<p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-### ⚙️ Tools & Infra
-<div align="center">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
+</p>
 
----
+### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soheeGit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheeGit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" alt="Top Languages" height="180"/>
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=soheeGit&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=58a6ff" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soheeGit&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&text_color=ffffff" alt="Top Languages" height="165"/>
+</p>
 
----
+### 🏆 Baekjoon Tier
 
-<div align="center">
+<p>
   <a href="https://solved.ac/63wlsthgml">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=63wlsthgml" alt="Baekjoon Tier"/>
   </a>
-</div>
+</p>
 
----
+### 🐾 Git Animals
 
-<div align="center">
+<p>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=soheeGit&utm_content=farm">
     <img src="https://render.gitanimals.org/farms/soheeGit" width="600" />
   </a>
-</div>
+</p>
